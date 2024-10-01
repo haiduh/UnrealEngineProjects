@@ -6,7 +6,7 @@ Welcome to my Unreal Engine projects repository! This repository showcases sever
 An immersive First-Person Shooter (FPS) game currently under development. This project features custom models that I’ve personally modified within Unreal Engine, providing a unique visual experience and tailored gameplay mechanics.
 
 
-> **Note:** The folder containing the FPS game build couldn't be uploaded to GitHub due to size limitations. You can download it in a `.rar` from the link below:
+> **Note:** The folder containing the FPS game build couldn't be uploaded to GitHub due to size limitations. You can download it in a `.rar` format from the link below:
 
 [Download FPSGame `.rar`](https://drive.google.com/file/d/1D4y4aKwp8HTMOSnOf2bUdMZLIJDTHbuP/view?usp=sharing)
 
