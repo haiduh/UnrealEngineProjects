@@ -14,6 +14,7 @@ An immersive First-Person Shooter (FPS) game currently under development. This p
 ### Features:
 - Custom character models and animations
 - Realistic environments with dynamic lighting
+- High-definition surround sound and custom sound effects
 - Weapon systems with custom reload and fire animations
 - Interactive environments and AI-driven enemies
 
