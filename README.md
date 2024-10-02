@@ -62,5 +62,9 @@ If you'd like to contribute to any of these projects, feel free to fork the repo
 
 ---
 
-## Contact
-If you have any questions or issues, feel free to reach out via email or open an issue on GitHub.
+## 📞 Contact Me
+If you have any questions or would like to discuss this project further, feel free to reach out:
+
+- **Email:** rayaanhaider04@hotmail.com
+
+I’d love to hear your feedback or collaborate on future projects!
