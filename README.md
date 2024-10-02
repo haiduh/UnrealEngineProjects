@@ -57,14 +57,12 @@ Here are some visuals showcasing the development progress, gameplay, and custom 
 
 ---
 
-## Contributing
-If you'd like to contribute to any of these projects, feel free to fork the repository and submit a pull request. Suggestions and improvements are always welcome!
-
----
-
 ## 📞 Contact Me
-If you have any questions or would like to discuss this project further, feel free to reach out:
+If you have any questions or would like to discuss these projects further, feel free to reach out:
 
 - **Email:** rayaanhaider04@hotmail.com
 
 I’d love to hear your feedback or collaborate on future projects!
+
+---
+
